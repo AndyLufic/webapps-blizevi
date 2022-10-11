@@ -7,3 +7,5 @@ console.log(b)
 
 }
 sortiraj(a)
+
+//komentar
