@@ -4,4 +4,4 @@ function polovica(a){
 
 }
 
-polovica(a)
+polovica(a) 
